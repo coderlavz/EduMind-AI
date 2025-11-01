@@ -1,4 +1,11 @@
 # EduMind-AI
+<p align="center">
+  <img src="edumind-logo.png" alt="EduMind-AI Logo" width="300"/>
+</p>
+
+<h1 align="center">EduMind-AI</h1>
+<p align="center">Your AI-powered learning companion — sparking minds with knowledge and creativity 💡</p>
+
 🌟 EduMind-AI
 
 Your personal AI-powered learning companion
