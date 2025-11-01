@@ -49,8 +49,6 @@ EduMind-AI was born to fix that — to make learning truly from scratch possible
 
 📸 Demo (Coming Soon)
 
-🎥 Add screenshots or short videos once you start building the interface.
-
 🧑‍💻 Developer
 
 👩‍🎓 Created by: Lavz
