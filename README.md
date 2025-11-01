@@ -43,7 +43,7 @@ Hosting: GitHub Pages / Vercel / Streamlit Cloud
 
 User enters the topic (e.g., “Solid State Chemistry”).
 
-AI detects the user’s knowledge level (based on questions).
+AI detects the user’s knowledge level (based on answer of user).
 
 AI explains the topic in layers — from basic concepts to advanced logic.
 
@@ -64,8 +64,7 @@ EduMind-AI was born to fix that — to make learning truly from scratch possible
 
 📜 License
 
-This project is licensed under the MIT License
-.
+This project is licensed under the MIT License.
 
 ⭐ Support the Project
 
